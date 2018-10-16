@@ -1,0 +1,11 @@
+C:\Users\mamendoza\source\sandbox\del-exp\bin\Debug\netcoreapp2.1\del-exp.deps.json
+C:\Users\mamendoza\source\sandbox\del-exp\bin\Debug\netcoreapp2.1\del-exp.runtimeconfig.json
+C:\Users\mamendoza\source\sandbox\del-exp\bin\Debug\netcoreapp2.1\del-exp.runtimeconfig.dev.json
+C:\Users\mamendoza\source\sandbox\del-exp\bin\Debug\netcoreapp2.1\del-exp.dll
+C:\Users\mamendoza\source\sandbox\del-exp\bin\Debug\netcoreapp2.1\del-exp.pdb
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.csprojAssemblyReference.cache
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.csproj.CoreCompileInputs.cache
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.AssemblyInfoInputs.cache
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.AssemblyInfo.cs
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.dll
+C:\Users\mamendoza\source\sandbox\del-exp\obj\Debug\netcoreapp2.1\del-exp.pdb
